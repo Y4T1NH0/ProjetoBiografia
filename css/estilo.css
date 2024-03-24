@@ -1,0 +1,61 @@
+.html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+.container{
+    max-width: 2000px;
+   
+}
+
+.bold{
+    font-weight: bold;
+}
+.header{
+   
+    text-align: center;
+}
+.hist{
+   
+    margin-top: 50px;
+    text-align: center;
+    font: italic;
+    font-size: larger;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.album{
+    
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.influencia{
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    
+}
+.citacao{
+    background-color: rgb(132, 201, 241);
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 10px;
+    border: 1px solid rgb(132, 201, 241);
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.trecho{
+    font-size: 15px;
+
+} 
+.curio{
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+
+
